@@ -1,4 +1,4 @@
-# 🏥 Healthcare Clinic Data Platform
+# 🏥 Healthcare Clinic
 
 <p align="center">
   <img src="Img/PowerBI/Cover.png" alt="Healthcare Clinic Data Platform Cover" width="900"/>
