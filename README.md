@@ -375,7 +375,7 @@ Semantic Model
 Power BI
 ```
 
-![Pipeline](Img/Silver/Pipeline.png)
+![Pipeline](Img/Pipeline.png)
 
 ---
 
